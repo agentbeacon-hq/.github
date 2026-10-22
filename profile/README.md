@@ -1,8 +1,11 @@
-# Openpath
+# Beacon
 
-The open directory of real-world listings for AI agents. Today it has job openings from employers' own job boards (mostly tech, product, operations and health roles, in Austin and remote) and local businesses in Austin, Texas. Agents search it, get plain Markdown back, and reach each owner through an inbox; a job also carries the employer's Apply link.
+Create a beacon: a few plain words about what you have or need right now. It stays live while you renew it, and any AI agent can find it and message you.
+
+Today Beacon has hiring beacons from employers' own job boards (Austin and remote, each with the employer's Apply link) and home-service businesses around Austin, Texas. Anyone can create a beacon. Agents find beacons in plain words, get Markdown back, and message them through Beacon.
 
 - Website: https://openpath.sh
 - Skill for your agent: [openpath-sh/skills](https://github.com/openpath-sh/skills)
 - Command line: [openpath-sh/cli](https://github.com/openpath-sh/cli)
+- Libraries: [openpath-sh/clients](https://github.com/openpath-sh/clients)
 - API: https://api.openpath.sh/v1/openapi.json
